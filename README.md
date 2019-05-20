@@ -1,9 +1,9 @@
 # Contents
 
-- Documentation
-- Apps
-- Organizations
-- Network
+- [Documentation](https://github.com/lkngtn/awesome-aragon#documentation)
+- [Apps](https://github.com/lkngtn/awesome-aragon#aragon-applications)
+- [Organizations](https://github.com/lkngtn/awesome-aragon#organizations)
+- [Network](https://github.com/lkngtn/awesome-aragon#network)
 
 # Documentation
 
@@ -44,16 +44,27 @@
 - [Wiki](https://github.com/P2PModels/wiki)
 - [Redemptions](https://github.com/1Hive/redemptions-app)
 - [MyID](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyID)
-- [MyTokens][https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyTokens]
+- [MyTokens](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyTokens)
 - [Livepeer Transcoder Manager](https://github.com/videoDAC/livepeer-aragon)
 
 # Organizations
 - [Aragon Association](https://aragon.org)
+
+## Flock
 - [Aragon One](https://aragon.one)
 - [Autark](https://www.autark.xyz)
 - [Aragon Black](https://www.aragon.black)
-- [Aragon Cooperative](https://forum.aragon.org/tags/cooperative)
+
+## Nest
+- [Level K](https://www.levelk.io)
+- [Frame](https://frame.sh)
+
+## DAOs 
 - [1Hive](https://1hive.org)
+- [Aragon Cooperative](https://forum.aragon.org/tags/cooperative)
+- [MyBit DAO](https://mybit.io)
+- [BlankDAO](https://blankdao.org)
+- [OpenESQ](https://twitter.com/openesq)
 
 # Aragon Network
 - [Project Governance](https://aragon.org/project/governance)
