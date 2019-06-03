@@ -46,6 +46,7 @@
 - [MyID](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyID)
 - [MyTokens](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyTokens)
 - [Livepeer Transcoder Manager](https://github.com/videoDAC/livepeer-aragon)
+- [DappNode NFT Manager](https://github.com/eduadiez/DAppNodeNFT)
 
 # Organizations
 - [Aragon Association](https://aragon.org)
@@ -65,6 +66,7 @@
 - [MyBit DAO](https://mybit.io)
 - [BlankDAO](https://blankdao.org)
 - [OpenESQ](https://twitter.com/openesq)
+- [DappNode](https://https://dappnode.io)
 
 # Aragon Network
 - [Project Governance](https://aragon.org/project/governance)
