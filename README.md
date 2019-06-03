@@ -39,7 +39,7 @@
 - [Rewards](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/rewards)
 - [Payroll](https://github.com/aragon/aragon-apps/tree/master/future-apps/payroll)
 - [Pando](https://github.com/pandonetwork/pando)
-- [Apiary/Fundraising](https://github.com/aragonblack/fundraising)
+- [Fundraising](https://blog.aragon.org/introducing-aragon-fundraising/)
 - [Furarchy](https://github.com/levelkdev/futarchy-app)
 - [Wiki](https://github.com/P2PModels/wiki)
 - [Redemptions](https://github.com/1Hive/redemptions-app)
