@@ -66,7 +66,7 @@
 - [MyBit DAO](https://mybit.io)
 - [BlankDAO](https://blankdao.org)
 - [OpenESQ](https://twitter.com/openesq)
-- [DappNode](https://https://dappnode.io)
+- [DappNode](https://dappnode.io)
 
 # Aragon Network
 - [Project Governance](https://aragon.org/project/governance)
