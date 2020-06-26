@@ -1,3 +1,7 @@
+# Awesome Aragon List
+
+A list of awesome Aragon stuff.
+
 # Contents
 
 - [Documentation](https://github.com/lkngtn/awesome-aragon#documentation)
