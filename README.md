@@ -1,23 +1,26 @@
 # Awesome Aragon List
 
-A list of awesome Aragon stuff.
+A list of awesome Aragon stuff!
 
-# Contents
+## Aragon 101
 
-- [Documentation](https://github.com/lkngtn/awesome-aragon#documentation)
-- [Apps](https://github.com/lkngtn/awesome-aragon#aragon-applications)
-- [Organizations](https://github.com/lkngtn/awesome-aragon#organizations)
-- [Network](https://github.com/lkngtn/awesome-aragon#network)
+High level intro to Aragon goes here.
 
-# Documentation
-
-## For Users
 - [Wiki](https://wiki.aragon.org)
+
+## Using Aragon
+
 - [Aragon User Guide](https://wiki.aragon.org/tutorials/Aragon_User_Guide/)
+
+## Hacking On Aragon
+
+Tools and guides to build awesome Aragon stuff.
+
+Aragon CLI
+
 - [AragonCLI DAO Commands](https://hack.aragon.org/docs/cli-dao-commands)
 
-## For Developers
-- [Developer Portal](https://hack.aragon.org/docs/getting-started)
+[Docs](https://hack.aragon.org/docs/getting-started)
 - [aragonPM](https://hack.aragon.org/docs/apm-intro.html)
 - [aragonOS](https://hack.aragon.org/docs/aragonos-intro.html)
 - [aragonAPI](https://hack.aragon.org/docs/api-intro.html)
@@ -26,11 +29,15 @@ A list of awesome Aragon stuff.
 - [Radspec](https://github.com/aragon/radspec)
 
 ## Tutorials
+
 - [App Development Guide](https://hack.aragon.org/docs/tutorial)
 - [App Publishing Guide](https://hack.aragon.org/docs/guides-publish)
 - [Deploying Custom Organizations](https://hack.aragon.org/docs/guides-custom-deploy)
 
-# Aragon Applications
+## Aragon Apps
+
+Apps you can plug into your Aragon DAO.
+
 - [Permissions](https://aragon.helpscoutdocs.com/article/21-permissions)
 - [Token Manager](https://aragon.helpscoutdocs.com/article/18-token-manager)
 - [Vault](https://github.com/aragon/aragon-apps/tree/master/apps/vault)
@@ -51,30 +58,3 @@ A list of awesome Aragon stuff.
 - [MyTokens](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyTokens)
 - [Livepeer Transcoder Manager](https://github.com/videoDAC/livepeer-aragon)
 - [DappNode NFT Manager](https://github.com/eduadiez/DAppNodeNFT)
-
-# Organizations
-- [Aragon Association](https://aragon.org)
-
-## Flock
-- [Aragon One](https://aragon.one)
-- [Autark](https://www.autark.xyz)
-- [Aragon Black](https://www.aragon.black)
-
-## Nest
-- [Level K](https://www.levelk.io)
-- [Frame](https://frame.sh)
-
-## DAOs 
-- [1Hive](https://1hive.org)
-- [Aragon Cooperative](https://forum.aragon.org/tags/cooperative)
-- [MyBit DAO](https://mybit.io)
-- [BlankDAO](https://blankdao.org)
-- [OpenESQ](https://twitter.com/openesq)
-- [DappNode](https://dappnode.io)
-
-# Aragon Network
-- [Project Governance](https://aragon.org/project/governance)
-- [Whitepaper](https://github.com/aragon/whitepaper)
-- [Aragon Network and Token Primer](https://blog.aragon.one/aragon-network-and-token-primer/)
-- [Long term funding for Aragon](https://forum.aragon.org/t/revisiting-long-term-funding-models-for-aragon/958)
-- [ANT](https://wiki.aragon.org/documentation/aragon_network_token/)
