@@ -58,3 +58,9 @@ Apps you can plug into your Aragon DAO.
 - [MyTokens](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyTokens)
 - [Livepeer Transcoder Manager](https://github.com/videoDAC/livepeer-aragon)
 - [DappNode NFT Manager](https://github.com/eduadiez/DAppNodeNFT)
+
+## Aragon DAO Templates
+
+- [Dandelion Orgs](https://1hive.org/getting-started-with-dandelion-organizations/) - MolochDAO V2 on Aragon minus rage-kick.
+- [Aragon Fundraising](https://fundraising.aragon.black/) - A clasic [DAICO](https://ethresear.ch/t/explanation-of-daicos/465) model on Aragon.
+- [Aragon Classic](https://mainnet.aragon.org/#/create) - The Company, Reputation, and Membership orgs are the same template (token manager, vault, and voting apps) with slightly differnent restrictions on token transfers.
